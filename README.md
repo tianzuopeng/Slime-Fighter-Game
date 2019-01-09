@@ -2,7 +2,7 @@
 
 This 2D browser-based game called Slime Fighter. The player controls the hero to defeat the giant slime in the cave. 
 
-[!image]
+![image](https://github.com/tianzuopeng/SlimeFighterGame/blob/master/Outside.png)
 
 **Game Play video:**
 Download slimeFighterPlay.mov.
