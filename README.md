@@ -5,7 +5,7 @@ This 2D browser-based game called Slime Fighter. The player controls the hero to
 ![image](https://github.com/tianzuopeng/SlimeFighterGame/blob/master/Outside.png)
 
 **Game Play video:**
-Download slimeFighterPlay.mov.
+Download slimeFighterPlay.mov: https://github.com/tianzuopeng/SlimeFighterGame/blob/master/slimeFighter/slimeFighterPlay.mov
 
 **Play the Game:**
 1. Download slimeFighter folder.
