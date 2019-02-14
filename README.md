@@ -9,12 +9,9 @@ This 2D browser-based game called Slime Fighter. The player controls the hero to
     </p>
 </p>
 
-**Game Play video:**
-Download [slimeFighterPlay.mov](https://github.com/tianzuopeng/SlimeFighterGame/blob/master/slimeFighter/slimeFighterPlay.mov)
 
 **Play the Game:**
-1. Download slimeFighter folder.
-2. Open the "slimeFighter.html" with browser to play. 
+[Play](https://tianzuopeng.github.io/SlimeFighterGame/slimeFighter/slimeFighter.html)
 
 **Control**
 -Use arrow keys to move up, down, left and right.
