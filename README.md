@@ -1,6 +1,10 @@
 # SlimeFighterGame
 
-This 2D browser-based game called Slime Fighter. The player controls the hero to defeat the giant slime in the cave. 
+It's a 2D browser-based action game made with JavaScript and HTML. 
+
+The objective of Slime Fighter is that the player controls the hero to defeat the giant slime in the cave. 
+
+The players will understand the attack pattens of enemies and find the way to defeat the giant slime that seems unbeatable on first impression. Players will get sense of achievement when they get through the game. 
 
 <p align="center">
     <img src="https://github.com/tianzuopeng/SlimeFighterGame/blob/master/Outside.png" alt="Sample"  width="250" height="350">
