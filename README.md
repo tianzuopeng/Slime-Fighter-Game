@@ -15,17 +15,19 @@ The players will understand the attack pattens of enemies and find the way to de
 
 
 **Play the Game:**
+
 [Play](https://tianzuopeng.github.io/SlimeFighterGame/slimeFighter/slimeFighter.html)
 
 **Control**
--Use arrow keys to move up, down, left and right.
 
+-Use arrow keys to move up, down, left and right.
 -Use "x" to attack. 
 Press "space" to play again. 
 
 Tips: The monster in the first map is invincible when its state is "angry" or "attack". 
 
 **Source:**
+
 Sound effect: http://zh-cn.soundeffect-lab.info/sound/battle/
 
 8-bits BGM: https://maoudamashii.jokersounds.com/list/bgm11.html
