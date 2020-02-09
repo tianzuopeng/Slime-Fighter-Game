@@ -27,4 +27,5 @@ Tips: The monster in the first map is invincible when its state is "angry" or "a
 
 **Source:**
 Sound effect: http://zh-cn.soundeffect-lab.info/sound/battle/
+
 8-bits BGM: https://maoudamashii.jokersounds.com/list/bgm11.html
