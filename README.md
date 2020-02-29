@@ -16,7 +16,7 @@ The players will understand the attack pattens of enemies and find the way to de
 
 **Play the Game:**
 
-[Play](https://tianzuopeng.github.io/SlimeFighterGame/slimeFighter/slimeFighter.html)
+[Play](https://tianzuopeng.github.io/Slime-Fighter-Game/slimeFighter/slimeFighter.html)
 
 **Control**
 
